@@ -1,5 +1,0 @@
-# This prevents the names of native methods from being obfuscated and prevents
-# UnsatisfiedLinkErrors.
--keepclasseswithmembernames class * {
-    native <methods>;
-}

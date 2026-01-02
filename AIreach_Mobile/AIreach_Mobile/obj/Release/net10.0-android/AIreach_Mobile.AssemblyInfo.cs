@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AIreach_Mobile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+db4861ddabcedca346a66cfbd9152683691bbe98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ff0f4fe4ac7d0ba79c37c3c74fd14a56b5efefcd")]
 [assembly: System.Reflection.AssemblyProductAttribute("AIreach_Mobile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AIreach_Mobile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

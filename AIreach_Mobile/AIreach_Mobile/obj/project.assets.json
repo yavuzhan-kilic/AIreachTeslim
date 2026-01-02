@@ -20470,11 +20470,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\AIreach_Mobile.csproj",
+      "projectUniqueName": "C:\\Users\\Yavuzhan\\Desktop\\repos\\AIreachTeslim\\AIreach_Mobile\\AIreach_Mobile\\AIreach_Mobile.csproj",
       "projectName": "AIreach_Mobile",
-      "projectPath": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\AIreach_Mobile.csproj",
+      "projectPath": "C:\\Users\\Yavuzhan\\Desktop\\repos\\AIreachTeslim\\AIreach_Mobile\\AIreach_Mobile\\AIreach_Mobile.csproj",
       "packagesPath": "C:\\Users\\Yavuzhan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\obj\\",
+      "outputPath": "C:\\Users\\Yavuzhan\\Desktop\\repos\\AIreachTeslim\\AIreach_Mobile\\AIreach_Mobile\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

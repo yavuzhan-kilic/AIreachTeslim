@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2bgWcMa/2lA=",
+  "dgSpecHash": "yXL70neYqXY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\AIreach_Mobile.csproj",
+  "projectFilePath": "C:\\Users\\Yavuzhan\\Desktop\\repos\\AIreachTeslim\\AIreach_Mobile\\AIreach_Mobile\\AIreach_Mobile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yavuzhan\\.nuget\\packages\\googlegson\\2.13.1.1\\googlegson.2.13.1.1.nupkg.sha512",
     "C:\\Users\\Yavuzhan\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
