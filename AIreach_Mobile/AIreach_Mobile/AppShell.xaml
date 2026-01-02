@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="AIreach_Mobile.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:AIreach_Mobile"
+    Title="AIreach"
+    Shell.FlyoutBehavior="Disabled"
+
+    Shell.BackgroundColor="White"
+    Shell.ForegroundColor="#111827"
+    Shell.TitleColor="#111827"
+
+    Shell.TabBarBackgroundColor="White"
+    
+    Shell.TabBarForegroundColor="#2563EB"
+    
+    Shell.TabBarUnselectedColor="#9CA3AF"
+    Shell.TabBarTitleColor="#9CA3AF">
+
+    <TabBar>
+        <ShellContent
+        Title="Analiz"
+        Icon="home.svg"  ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+        <ShellContent
+        Title="Kütüphanem"
+        Icon="library.svg" ContentTemplate="{DataTemplate local:LibraryPage}"
+        Route="LibraryPage" />
+
+        <ShellContent
+        Title="Geçmiş"
+        Icon="history.svg" ContentTemplate="{DataTemplate local:HistoryPage}"
+        Route="HistoryPage" />
+    </TabBar>
+
+</Shell>

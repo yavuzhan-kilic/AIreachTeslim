@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AIreach_Mobile.LibraryPage"
+             BackgroundColor="#F5F7FA"
+             Shell.NavBarIsVisible="False">
+
+    <Grid RowDefinitions="Auto, *">
+        <VerticalStackLayout Grid.Row="0" Padding="25" Spacing="15" BackgroundColor="#F5F7FA">
+            <Label Text="Kütüphanem" FontSize="32" FontAttributes="Bold" TextColor="#111827"/>
+
+            <Grid ColumnDefinitions="*,*" ColumnSpacing="10">
+                <Button Grid.Column="0" Text="✨ Öneri Al" Clicked="OnRecommendClicked" BackgroundColor="#2563EB" TextColor="White" HeightRequest="45" CornerRadius="10" FontAttributes="Bold"/>
+                <Button Grid.Column="1" Text="📸 Fotoğraf" Clicked="OnBookshelfPhotoClicked" BackgroundColor="White" TextColor="#2563EB" BorderColor="#2563EB" BorderWidth="1" HeightRequest="45" CornerRadius="10" FontAttributes="Bold"/>
+            </Grid>
+
+            <ActivityIndicator x:Name="aiLoading" IsRunning="False" Color="#2563EB"/>
+
+            <Border StrokeShape="RoundRectangle 15" StrokeThickness="0" BackgroundColor="White" Padding="15">
+                <Border.Shadow>
+                    <Shadow Brush="Black" Opacity="0.05" Offset="0,4" Radius="10"/>
+                </Border.Shadow>
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Yeni Kitap Ekle" FontSize="14" FontAttributes="Bold" TextColor="#374151"/>
+                    <Grid ColumnDefinitions="*,*, Auto" ColumnSpacing="10">
+                        <Entry x:Name="txtKitapAdi" Grid.Column="0" Placeholder="Kitap Adı" PlaceholderColor="#9CA3AF" TextColor="#111827"/>
+                        <Entry x:Name="txtYazar" Grid.Column="1" Placeholder="Yazar" PlaceholderColor="#9CA3AF" TextColor="#111827"/>
+                        <Button Grid.Column="2" Text="+" Clicked="OnManualAddClicked" BackgroundColor="#10B981" TextColor="White" WidthRequest="40" HeightRequest="40" CornerRadius="20"/>
+                    </Grid>
+                </VerticalStackLayout>
+            </Border>
+        </VerticalStackLayout>
+
+        <CollectionView x:Name="cvLibrary" Grid.Row="1" Margin="25,0,25,25">
+            <CollectionView.ItemsLayout>
+                <LinearItemsLayout Orientation="Vertical" ItemSpacing="15"/>
+            </CollectionView.ItemsLayout>
+            <CollectionView.EmptyView>
+                <VerticalStackLayout HorizontalOptions="Center" VerticalOptions="Center" Spacing="10" Padding="0,50,0,0">
+                    <Label Text="📚" FontSize="40" HorizontalOptions="Center"/>
+                    <Label Text="Henüz kitap eklemedin." TextColor="#9CA3AF" HorizontalOptions="Center"/>
+                </VerticalStackLayout>
+            </CollectionView.EmptyView>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Border StrokeShape="RoundRectangle 15" StrokeThickness="0" BackgroundColor="White" Padding="15">
+                        <Border.Shadow>
+                            <Shadow Brush="Black" Opacity="0.03" Offset="0,2" Radius="5"/>
+                        </Border.Shadow>
+                        <Grid ColumnDefinitions="Auto, *">
+                            <Frame Grid.Column="0" BackgroundColor="#EFF6FF" HasShadow="False" Padding="10" CornerRadius="10" HeightRequest="45" WidthRequest="45">
+                                <Label Text="📖" HorizontalOptions="Center" VerticalOptions="Center"/>
+                            </Frame>
+                            <VerticalStackLayout Grid.Column="1" VerticalOptions="Center" Margin="15,0,0,0" Spacing="2">
+                                <Label Text="{Binding Baslik}" FontSize="16" FontAttributes="Bold" TextColor="#111827"/>
+                                <Label Text="{Binding Yazar}" FontSize="13" TextColor="#6B7280"/>
+                            </VerticalStackLayout>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+</ContentPage>

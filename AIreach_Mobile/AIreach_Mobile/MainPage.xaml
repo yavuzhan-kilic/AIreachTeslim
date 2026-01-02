@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AIreach_Mobile.MainPage"
+             BackgroundColor="#F5F7FA">
+    <ScrollView>
+        <VerticalStackLayout Spacing="25" Padding="30">
+
+            <VerticalStackLayout Spacing="5">
+                <Label Text="AIreach Edebi Eser Bağlam Analizi" 
+                       FontSize="32" 
+                       FontAttributes="Bold" 
+                       TextColor="#111827"/>
+                <Label Text="Bağlamını merak ettiğiniz metnin fotoğrafını çekin veya yazın." 
+                       FontSize="16" 
+                       TextColor="#6B7280"/>
+            </VerticalStackLayout>
+
+            <Border StrokeShape="RoundRectangle 20"
+                    StrokeThickness="0"
+                    HeightRequest="200">
+                <Border.Shadow>
+                    <Shadow Brush="Black" Opacity="0.1" Offset="0,10" Radius="20"/>
+                </Border.Shadow>
+
+                <Grid>
+                    <BoxView>
+                        <BoxView.Background>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                <GradientStop Color="#2E8B57" Offset="0.1"/>
+                                <GradientStop Color="#3CB371" Offset="1.0"/>
+                            </LinearGradientBrush>
+                        </BoxView.Background>
+                    </BoxView>
+
+                    <VerticalStackLayout VerticalOptions="Center" HorizontalOptions="Center" Spacing="10">
+                        <Label Text="📸" FontSize="50" HorizontalOptions="Center"/>
+                        <Label Text="Görsel Analiz" 
+                               TextColor="White" 
+                               FontSize="22" 
+                               FontAttributes="Bold"
+                               HorizontalOptions="Center"/>
+                        <Label Text="Kitap kapağının veya metnin fotoğrafını çekin" 
+                               TextColor="#E5E7EB" 
+                               FontSize="14"
+                               HorizontalOptions="Center"/>
+                    </VerticalStackLayout>
+
+                    <Grid.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnCameraClicked"/>
+                    </Grid.GestureRecognizers>
+                </Grid>
+            </Border>
+
+            <Border StrokeShape="RoundRectangle 20"
+                    StrokeThickness="0"
+                    BackgroundColor="White"
+                    Padding="20">
+                <Border.Shadow>
+                    <Shadow Brush="Black" Opacity="0.05" Offset="0,5" Radius="15"/>
+                </Border.Shadow>
+
+                <VerticalStackLayout Spacing="15">
+                    <Label Text="Metni elle yazın" 
+                           FontSize="20" 
+                           FontAttributes="Bold" 
+                           TextColor="#111827"/>
+
+                    <Label Text="Cümleyi veya paragrafı buraya yazın" 
+                           FontSize="14" 
+                           TextColor="#9CA3AF"/>
+
+                    <Border Stroke="#E5E7EB" 
+                            StrokeThickness="1" 
+                            StrokeShape="RoundRectangle 10"
+                            BackgroundColor="#F9FAFB"
+                            Padding="10">
+                        <Editor x:Name="txtInput"
+                                Placeholder="Buraya yazın..."
+                                AutoSize="TextChanges"
+                                HeightRequest="100"
+                                BackgroundColor="Transparent"
+                                TextColor="#374151"/>
+                    </Border>
+
+                    <Button Text="Analiz et"
+                            Clicked="OnAnalizClicked"
+                            BackgroundColor="#2563EB"
+                            TextColor="White"
+                            FontAttributes="Bold"
+                            CornerRadius="12"
+                            HeightRequest="50"/>
+                </VerticalStackLayout>
+            </Border>
+
+            <ActivityIndicator x:Name="loadingIndicator"
+                               IsRunning="False"
+                               Color="#2563EB"
+                               HeightRequest="40"/>
+
+            <VerticalStackLayout x:Name="resultLayout" 
+                                 IsVisible="False" 
+                                 Spacing="15">
+
+                <Label Text="Analiz sonucu" FontSize="20" FontAttributes="Bold" TextColor="#111827"/>
+
+                <Border StrokeShape="RoundRectangle 15"
+                        StrokeThickness="0"
+                        BackgroundColor="White"
+                        Padding="20">
+                    <Border.Shadow>
+                        <Shadow Brush="#2563EB" Opacity="0.2" Offset="0,4" Radius="10"/>
+                    </Border.Shadow>
+
+                    <VerticalStackLayout Spacing="10">
+                        <Label x:Name="lblKitapAdi" 
+                               FontSize="18" 
+                               FontAttributes="Bold" 
+                               TextColor="#2563EB"/>
+
+                        <Label x:Name="lblYazar" 
+                               FontSize="14" 
+                               FontAttributes="Italic" 
+                               TextColor="#6B7280"/>
+
+                        <BoxView HeightRequest="1" Color="#F3F4F6"/>
+
+                        <Label x:Name="lblAnaliz" 
+                               FontSize="15" 
+                               TextColor="#374151" 
+                               LineHeight="1.5"/>
+                    </VerticalStackLayout>
+                </Border>
+            </VerticalStackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

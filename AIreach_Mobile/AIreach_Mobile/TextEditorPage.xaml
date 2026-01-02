@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AIreach_Mobile.TextEditorPage"
+             Title="Metin Editörü"
+             BackgroundColor="#121212">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="16">
+
+            <Label Text="Metni düzenle ve analiz et" FontSize="20" FontAttributes="Bold" TextColor="#E6EEF8" />
+
+            <Frame BackgroundColor="#0B1220" CornerRadius="12" Padding="10" BorderColor="#21303C">
+                <Editor x:Name="txtInput"
+                        Placeholder="Metni buraya yapıştırın veya fotoğrafla getiriniz..."
+                        PlaceholderColor="#6B7684"
+                        TextColor="#E6EEF8"
+                        AutoSize="TextChanges"
+                        HeightRequest="220"/>
+            </Frame>
+
+            <Button Text="✨ ANALİZ ET"
+                    x:Name="btnAnaliz"
+                    Clicked="OnAnalizClicked"
+                    BackgroundColor="#60A5FA"
+                    TextColor="#071330"
+                    CornerRadius="12"
+                    HeightRequest="52"
+                    FontAttributes="Bold"/>
+
+            <ActivityIndicator x:Name="loadingIndicator" IsRunning="false" Color="#60A5FA" HeightRequest="40"/>
+
+            <VerticalStackLayout x:Name="resultLayout" IsVisible="false" Spacing="8">
+                <Frame BackgroundColor="#0B1220" CornerRadius="12" Padding="12" BorderColor="#21303C">
+                    <VerticalStackLayout Spacing="6">
+                        <Label x:Name="lblKitapAdi" FontSize="18" FontAttributes="Bold" TextColor="#AEE6FF" />
+                        <Label x:Name="lblYazar" FontSize="14" TextColor="#9AA6B8" />
+                        <BoxView HeightRequest="1" Color="#17202A" Margin="0,6"/>
+                        <Label x:Name="lblAnaliz" FontSize="14" TextColor="#E6EEF8" LineHeight="1.25"/>
+                    </VerticalStackLayout>
+                </Frame>
+            </VerticalStackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

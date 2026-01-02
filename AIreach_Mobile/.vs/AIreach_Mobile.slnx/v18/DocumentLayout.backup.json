@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\services\\aireachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\services\\aireachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\services\\secretsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\services\\secretsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\services\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\services\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\librarypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\librarypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\historypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\historypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\historypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\historypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\models\\aramagecmisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\models\\aramagecmisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\librarypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\librarypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\aireach_mobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\aireach_mobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\models\\kitapmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\models\\kitapmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\texteditorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\texteditorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|c:\\users\\yavuzhan\\source\\aireach\\aireach_mobile\\aireach_mobile\\aireach_mobile.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{359455D8-254D-2DA9-0661-9C1DFD3CE967}|AIreach_Mobile\\AIreach_Mobile.csproj|solutionrelative:aireach_mobile\\aireach_mobile.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Services\\LogHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIreach_Mobile\\Services\\LogHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\LibraryPage.xaml.cs",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\LibraryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\LibraryPage.xaml.cs",
+              "RelativeToolTip": "AIreach_Mobile\\LibraryPage.xaml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:29:43.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\MainPage.xaml.cs",
+              "RelativeToolTip": "AIreach_Mobile\\MainPage.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAEwC8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:16:02.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\MauiProgram.cs",
+              "RelativeToolTip": "AIreach_Mobile\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:20:20.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AIreachService.cs",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Services\\AIreachService.cs",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\Services\\AIreachService.cs",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Services\\AIreachService.cs",
+              "RelativeToolTip": "AIreach_Mobile\\Services\\AIreachService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:44:45.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Services\\HistoryService.cs",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\Services\\HistoryService.cs",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Services\\HistoryService.cs",
+              "RelativeToolTip": "AIreach_Mobile\\Services\\HistoryService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:15:42.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecretsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Services\\SecretsManager.cs",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\Services\\SecretsManager.cs",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Services\\SecretsManager.cs",
+              "RelativeToolTip": "AIreach_Mobile\\Services\\SecretsManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:52:37.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\secrets.json",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\secrets.json",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\secrets.json",
+              "RelativeToolTip": "AIreach_Mobile\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T11:27:45.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistoryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\HistoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\HistoryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\HistoryPage.xaml.cs",
+              "RelativeToolTip": "AIreach_Mobile\\HistoryPage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:55:52.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\HistoryPage.xaml",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\HistoryPage.xaml",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\HistoryPage.xaml",
+              "RelativeToolTip": "AIreach_Mobile\\HistoryPage.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-24T11:55:29.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\AppShell.xaml",
+              "RelativeToolTip": "AIreach_Mobile\\AppShell.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-21T17:27:32.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\App.xaml",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\App.xaml",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\App.xaml",
+              "RelativeToolTip": "AIreach_Mobile\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-21T17:27:20.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "AIreach_Mobile\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:52:05.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "AIreach_Mobile\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:21:47.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AramaGecmisi.cs",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Models\\AramaGecmisi.cs",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\Models\\AramaGecmisi.cs",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Models\\AramaGecmisi.cs",
+              "RelativeToolTip": "AIreach_Mobile\\Models\\AramaGecmisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:15:07.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LibraryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\LibraryPage.xaml",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\LibraryPage.xaml",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\LibraryPage.xaml",
+              "RelativeToolTip": "AIreach_Mobile\\LibraryPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T06:58:52.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\MainPage.xaml",
+              "RelativeToolTip": "AIreach_Mobile\\MainPage.xaml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAUwH8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-21T17:30:34.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KitapModel.cs",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Models\\KitapModel.cs",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\Models\\KitapModel.cs",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Models\\KitapModel.cs",
+              "RelativeToolTip": "AIreach_Mobile\\Models\\KitapModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:21:20.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AIreach_Mobile.csproj",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\AIreach_Mobile.csproj",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\AIreach_Mobile.csproj",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\AIreach_Mobile.csproj",
+              "RelativeToolTip": "AIreach_Mobile\\AIreach_Mobile.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-21T11:27:34.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\App.xaml.cs",
+              "RelativeToolTip": "AIreach_Mobile\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:27:27.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TextEditorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\TextEditorPage.xaml",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\TextEditorPage.xaml",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\TextEditorPage.xaml",
+              "RelativeToolTip": "AIreach_Mobile\\TextEditorPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T06:05:25.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LogHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Services\\LogHelper.cs",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\Services\\LogHelper.cs",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Services\\LogHelper.cs",
+              "RelativeToolTip": "AIreach_Mobile\\Services\\LogHelper.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:02:09.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\AppShell.xaml.cs",
+              "RelativeToolTip": "AIreach_Mobile\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:28:06.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "AIreach_Mobile\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-21T17:21:44.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AIreach_Mobile",
+              "DocumentMoniker": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\AIreach_Mobile.csproj",
+              "RelativeDocumentMoniker": "AIreach_Mobile\\AIreach_Mobile.csproj",
+              "ToolTip": "C:\\Users\\Yavuzhan\\source\\AIreach\\AIreach_Mobile\\AIreach_Mobile\\AIreach_Mobile.csproj",
+              "RelativeToolTip": "AIreach_Mobile\\AIreach_Mobile.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-21T15:46:21.971Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
